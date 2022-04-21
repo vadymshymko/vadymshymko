@@ -1,3 +1,6 @@
-<h1 align="center">Hi 👋, I'm Vadym Shymko</h1>
-<h3 align="center">A frontend developer from Kyiv, Ukraine  🇺🇦</h3>
+### Hi there 👋
 
+- 🔭 I’m currently working on something cool
+- 🌱 I’m currently learning something new
+- 👯 I’m looking to collaborate on something new and cool
+- 💬 Ask me about front-end tech
